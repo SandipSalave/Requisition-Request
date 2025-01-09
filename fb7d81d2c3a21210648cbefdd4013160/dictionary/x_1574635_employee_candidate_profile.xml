@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element audit="true" db_object_id="ce77542bc3221210648cbefdd4013188" label="Candidate Profile" max_length="40" name="x_1574635_employee_candidate_profile" type="collection">
+        <element label="Phone Number 2" max_length="10" name="phone_number_2" type="phone_number_e164"/>
+        <element label="Referrer's Name" max_length="32" name="referrer_s_name" reference="sys_user" type="reference"/>
+        <element label="Current Location" mandatory="true" max_length="100" name="current_location" reference="x_1574635_employee_candidate_profile" type="string"/>
+        <element label="Certification" max_length="100" name="certification" type="string"/>
+        <element label="Number Of Required Candidates" max_length="2" name="number_of_required_candidates" type="string"/>
+        <element display="true" label="Candidate Name" mandatory="true" max_length="50" name="candidate_name" type="string"/>
+        <element label="Notice Period(In Days)" max_length="40" name="notice_period" type="string"/>
+        <element default="In LPA." label="Current CTC" max_length="40" name="current_ctc" type="string"/>
+        <element choice="1" label="Referred From" max_length="50" name="referred_from" type="choice">
+            <choice>
+                <element inactive_on_update="false" label="Other" sequence="3" value="Other"/>
+                <element inactive_on_update="false" label="Linkedin" sequence="0" value="From Linkedin"/>
+                <element inactive_on_update="false" label="Perficient Employee" sequence="2" value="From Perficient Employee"/>
+                <element inactive_on_update="false" label="Naukari Profile" sequence="1" value="From Naukari Profile"/>
+            </choice>
+        </element>
+        <element default="javascript:getNextObjNumberPadded();" dynamic_default_value="fdcb83a85f220100a9ad2572f2b4773c" label="Candidate" max_length="40" name="candidate" type="string" use_dynamic_default="true"/>
+        <element default="employee.name@xyz.com" label="Email" mandatory="true" max_length="100" name="email" type="string"/>
+        <element label="Resume" max_length="50" name="resume" type="file_attachment"/>
+        <element label="Phone Number 1" mandatory="true" max_length="10" name="phone_number_1" type="phone_number_e164"/>
+        <element label="Years of Experience" mandatory="true" max_length="2" name="years_of_experience" type="integer"/>
+        <element choice="1" label="Status" max_length="40" name="status" type="choice">
+            <choice>
+                <element inactive_on_update="false" label="Pending" sequence="4" value="Pending"/>
+                <element inactive_on_update="false" label="Declined" sequence="5" value="Declined"/>
+                <element inactive_on_update="false" label="Inactive" sequence="6" value="Inactive"/>
+                <element inactive_on_update="false" label="In Progress" sequence="3" value="InProgress"/>
+                <element inactive_on_update="false" label="Rejected" sequence="1" value="Rejected"/>
+                <element inactive_on_update="false" label="Offered" sequence="2" value="Offered"/>
+                <element inactive_on_update="false" label="Hired" sequence="0" value="Hired"/>
+            </choice>
+        </element>
+        <element attributes="encode_utf8=false" label="Requisition Request" max_length="32" name="number" reference="x_1574635_employee_requisition_request" type="reference"/>
+        <element default="In LPA" label="Expected CTC" max_length="40" name="expected_ctc" type="string"/>
+        <index name="index">
+            <element name="number"/>
+        </index>
+        <index name="index2">
+            <element name="referrer_s_name"/>
+        </index>
+    </element>
+</database>

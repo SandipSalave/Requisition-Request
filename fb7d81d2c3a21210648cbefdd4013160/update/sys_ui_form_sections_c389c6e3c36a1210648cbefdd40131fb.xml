@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_ui_form_sections form_id="c389c6e3c36a1210648cbefdd40131fb" sys_domain="global" table="x_1574635_employee_interview_rounds" version="3">
+        <sys_ui_form_section action="INSERT_OR_UPDATE">
+            <position>0</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2024-12-24 14:15:31</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>9389c6e3c36a1210648cbefdd40131ff</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_overrides/>
+            <sys_ui_form display_value="x_1574635_employee_interview_rounds" name="x_1574635_employee_interview_rounds" sys_domain="global" view="Default view">c389c6e3c36a1210648cbefdd40131fb</sys_ui_form>
+            <sys_ui_section caption="NULL" display_value="" name="x_1574635_employee_interview_rounds" sys_domain="global" view="Default view">6c195d2bc3661210648cbefdd4013120</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2024-12-24 14:15:31</sys_updated_on>
+        </sys_ui_form_section>
+        <sys_ui_form_section action="INSERT_OR_UPDATE">
+            <position>1</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2024-12-24 14:15:31</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>9f89c6e3c36a1210648cbefdd40131ff</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_overrides/>
+            <sys_ui_form display_value="x_1574635_employee_interview_rounds" name="x_1574635_employee_interview_rounds" sys_domain="global" view="Default view">c389c6e3c36a1210648cbefdd40131fb</sys_ui_form>
+            <sys_ui_section caption="Feedback" display_value="Feedback" name="x_1574635_employee_interview_rounds" sys_domain="global" view="Default view">0789c6e3c36a1210648cbefdd40131f9</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2024-12-24 14:15:31</sys_updated_on>
+        </sys_ui_form_section>
+        <sys_ui_form action="INSERT_OR_UPDATE">
+            <name>x_1574635_employee_interview_rounds</name>
+            <roles/>
+            <sys_class_name>sys_ui_form</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2024-12-24 14:15:30</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>c389c6e3c36a1210648cbefdd40131fb</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>x_1574635_employee_interview_rounds</sys_name>
+            <sys_overrides/>
+            <sys_package display_value="Employee Requisition" source="x_1574635_employee">fb7d81d2c3a21210648cbefdd4013160</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="Employee Requisition">fb7d81d2c3a21210648cbefdd4013160</sys_scope>
+            <sys_update_name>sys_ui_form_sections_c389c6e3c36a1210648cbefdd40131fb</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2024-12-24 14:15:30</sys_updated_on>
+            <sys_user/>
+            <view display_value="Default view" name="NULL">Default view</view>
+            <view_name/>
+        </sys_ui_form>
+    </sys_ui_form_sections>
+</record_update>

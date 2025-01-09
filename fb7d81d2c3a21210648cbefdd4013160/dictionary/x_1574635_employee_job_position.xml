@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element db_object_id="91615556c3a21210648cbefdd4013118" label="Job Position" max_length="40" name="x_1574635_employee_job_position" type="collection">
+        <element label="Description" max_length="100" name="description" type="string"/>
+        <element label="Position Code" max_length="100" name="position_code" type="string"/>
+        <element display="true" label="Position Name" max_length="100" name="position_name" type="string"/>
+    </element>
+</database>

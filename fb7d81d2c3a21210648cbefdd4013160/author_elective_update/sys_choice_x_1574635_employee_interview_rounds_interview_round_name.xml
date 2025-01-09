@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_choice action="INSERT_OR_UPDATE" field="interview_round_name" table="x_1574635_employee_interview_rounds" version="3">
+        <sys_choice_set action="INSERT_OR_UPDATE">
+            <element>interview_round_name</element>
+            <name>x_1574635_employee_interview_rounds</name>
+            <sys_class_name>sys_choice_set</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2024-12-24 08:28:21</sys_created_on>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>interview_round_name</sys_name>
+            <sys_package display_value="Employee Requisition" source="x_1574635_employee">fb7d81d2c3a21210648cbefdd4013160</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="Employee Requisition">fb7d81d2c3a21210648cbefdd4013160</sys_scope>
+            <sys_update_name>sys_choice_x_1574635_employee_interview_rounds_interview_round_name</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2024-12-24 08:28:21</sys_updated_on>
+        </sys_choice_set>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>interview_round_name</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Technical Round</label>
+            <language>en</language>
+            <name>x_1574635_employee_interview_rounds</name>
+            <sequence>0</sequence>
+            <synonyms/>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2024-12-24 08:28:21</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_mod_count>3</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2024-12-24 08:30:47</sys_updated_on>
+            <value>Technical Round</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>interview_round_name</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>HR Round</label>
+            <language>en</language>
+            <name>x_1574635_employee_interview_rounds</name>
+            <sequence>1</sequence>
+            <synonyms/>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2024-12-24 08:31:10</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_mod_count>2</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2024-12-24 08:31:22</sys_updated_on>
+            <value>HR Round</value>
+        </sys_choice>
+    </sys_choice>
+</record_update>

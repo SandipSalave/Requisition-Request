@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_ui_related sys_domain="global" table="x_1574635_employee_candidate_profile" version="2" view="">
+        <sys_ui_related_list_entry action="INSERT_OR_UPDATE">
+            <filter/>
+            <list_id display_value="Candidate Profile - Default view" name="x_1574635_employee_candidate_profile" related_list="NULL" sys_domain="global" view="Default view">9e796837c3f61210648cbefdd401318a</list_id>
+            <order_by/>
+            <position>0</position>
+            <related_list>x_1574635_employee_interview_rounds.candidate_name</related_list>
+            <sys_class_name>sys_ui_related_list_entry</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2025-01-06 12:09:55</sys_created_on>
+            <sys_id>1e796837c3f61210648cbefdd401318b</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2025-01-06 12:09:55</sys_updated_on>
+        </sys_ui_related_list_entry>
+        <sys_ui_related_list action="INSERT_OR_UPDATE">
+            <calculated_name>Candidate Profile - Default view</calculated_name>
+            <filter/>
+            <name>x_1574635_employee_candidate_profile</name>
+            <order_by/>
+            <position/>
+            <related_list/>
+            <sys_class_name>sys_ui_related_list</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2025-01-06 12:09:55</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>9e796837c3f61210648cbefdd401318a</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>Candidate Profile - Default view</sys_name>
+            <sys_package display_value="Employee Requisition" source="x_1574635_employee">fb7d81d2c3a21210648cbefdd4013160</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="Employee Requisition">fb7d81d2c3a21210648cbefdd4013160</sys_scope>
+            <sys_update_name>sys_ui_related_x_1574635_employee_candidate_profile_null</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2025-01-06 12:09:55</sys_updated_on>
+            <sys_user/>
+            <view display_value="Default view" name="NULL">Default view</view>
+            <view_name/>
+        </sys_ui_related_list>
+    </sys_ui_related>
+</record_update>

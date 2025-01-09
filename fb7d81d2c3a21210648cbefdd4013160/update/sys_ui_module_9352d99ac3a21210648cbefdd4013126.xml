@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_ui_module">
+    <sys_ui_module action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <application display_value="Employee Requisition">1752519ac3a21210648cbefdd40131ce</application>
+        <filter/>
+        <name>Technologys</name>
+        <order/>
+        <path/>
+        <path_relative_to_root>false</path_relative_to_root>
+        <roles>x_1574635_employee.technology_user</roles>
+        <sys_class_name>sys_ui_module</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-12-20 13:02:00</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>9352d99ac3a21210648cbefdd4013126</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Technologys</sys_name>
+        <sys_package display_value="Employee Requisition" source="x_1574635_employee">fb7d81d2c3a21210648cbefdd4013160</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Employee Requisition">fb7d81d2c3a21210648cbefdd4013160</sys_scope>
+        <sys_update_name>sys_ui_module_9352d99ac3a21210648cbefdd4013126</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-12-20 13:02:00</sys_updated_on>
+        <table>x_1574635_employee_technology</table>
+        <uncancelable>false</uncancelable>
+        <view_name/>
+    </sys_ui_module>
+</record_update>

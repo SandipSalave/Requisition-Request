@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_user_role_contains">
+    <sys_user_role_contains action="DELETE">
+        <contains display_value="x_1574635_employee.requisition_user" name="x_1574635_employee.requisition_user">6ef6b068c37e1610648cbefdd40131be</contains>
+        <role display_value="x_1574635_employee.requisition_admin" name="x_1574635_employee.requisition_admin">c29634a8c37e1610648cbefdd40131e2</role>
+        <sys_class_name>sys_user_role_contains</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-12-27 10:49:21</sys_created_on>
+        <sys_id>a827b8a8c37e1610648cbefdd4013102</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>x_1574635_employee.requisition_user.x_1574635_employee.requisition_admin</sys_name>
+        <sys_package display_value="Employee Requisition" source="x_1574635_employee">fb7d81d2c3a21210648cbefdd4013160</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Employee Requisition">fb7d81d2c3a21210648cbefdd4013160</sys_scope>
+        <sys_update_name>sys_user_role_contains_a827b8a8c37e1610648cbefdd4013102</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-12-27 10:49:21</sys_updated_on>
+    </sys_user_role_contains>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="Employee Requisition">fb7d81d2c3a21210648cbefdd4013160</application>
+        <file_path/>
+        <instance_id>2fc915bd1bb9b9d0fe1b43f4bd4bcb24</instance_id>
+        <instance_name>dev182588</instance_name>
+        <name>sys_user_role_contains_a827b8a8c37e1610648cbefdd4013102</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_user_role_contains"><sys_user_role_contains action="INSERT_OR_UPDATE"><contains display_value="x_1574635_employee.requisition_user" name="x_1574635_employee.requisition_user">6ef6b068c37e1610648cbefdd40131be</contains><role display_value="x_1574635_employee.requisition_admin" name="x_1574635_employee.requisition_admin">c29634a8c37e1610648cbefdd40131e2</role><sys_class_name>sys_user_role_contains</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2024-12-27 10:49:21</sys_created_on><sys_id>a827b8a8c37e1610648cbefdd4013102</sys_id><sys_mod_count>0</sys_mod_count><sys_name>x_1574635_employee.requisition_user.x_1574635_employee.requisition_admin</sys_name><sys_package display_value="Employee Requisition" source="x_1574635_employee">fb7d81d2c3a21210648cbefdd4013160</sys_package><sys_policy/><sys_scope display_value="Employee Requisition">fb7d81d2c3a21210648cbefdd4013160</sys_scope><sys_update_name>sys_user_role_contains_a827b8a8c37e1610648cbefdd4013102</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2024-12-27 10:49:21</sys_updated_on></sys_user_role_contains></record_update>]]></payload>
+        <payload_hash>-1169286726</payload_hash>
+        <record_name>x_1574635_employee.requisition_user.x_1574635_employee.requisition_admin</record_name>
+        <reverted_from/>
+        <source>f77d81d2c3a21210648cbefdd4013165</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-12-27 10:49:21</sys_created_on>
+        <sys_id>fc2730e8c37e1610648cbefdd4013119</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>19407bc330f0000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-12-27 10:49:21</sys_updated_on>
+        <type>Contained Role</type>
+        <update_guid>f02730e8157e161091c74536f8816e19</update_guid>
+        <update_guid_history>f02730e8157e161091c74536f8816e19:-1169286726</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete/>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-12-27 13:30:04</sys_created_on>
+        <sys_db_object display_value="" name="sys_user_role_contains">sys_user_role_contains</sys_db_object>
+        <sys_id>05800c7bbeac4ed88d17a9207541ed64</sys_id>
+        <sys_metadata>a827b8a8c37e1610648cbefdd4013102</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>x_1574635_employee.requisition_user.x_1574635_employee.requisition_admin</sys_name>
+        <sys_package display_value="Employee Requisition" source="x_1574635_employee">fb7d81d2c3a21210648cbefdd4013160</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="Employee Requisition">fb7d81d2c3a21210648cbefdd4013160</sys_scope>
+        <sys_scope_delete display_value="">6228e63eee92470a95b7cdb805bb6b31</sys_scope_delete>
+        <sys_update_name>sys_user_role_contains_a827b8a8c37e1610648cbefdd4013102</sys_update_name>
+        <sys_update_version display_value="sys_user_role_contains_a827b8a8c37e1610648cbefdd4013102">fc2730e8c37e1610648cbefdd4013119</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-12-27 13:30:04</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

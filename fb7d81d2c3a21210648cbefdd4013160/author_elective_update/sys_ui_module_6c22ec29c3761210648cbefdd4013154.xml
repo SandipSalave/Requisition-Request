@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_ui_module">
+    <sys_ui_module action="DELETE">
+        <active>true</active>
+        <application display_value="Employee Requisition">1752519ac3a21210648cbefdd40131ce</application>
+        <filter/>
+        <name>Requisition Requests</name>
+        <order/>
+        <path/>
+        <path_relative_to_root>false</path_relative_to_root>
+        <roles>x_1574635_employee.requisition_request_admin</roles>
+        <sys_class_name>sys_ui_module</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-12-30 11:51:31</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>6c22ec29c3761210648cbefdd4013154</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Requisition Requests</sys_name>
+        <sys_package display_value="Employee Requisition" source="x_1574635_employee">fb7d81d2c3a21210648cbefdd4013160</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Employee Requisition">fb7d81d2c3a21210648cbefdd4013160</sys_scope>
+        <sys_update_name>sys_ui_module_6c22ec29c3761210648cbefdd4013154</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-12-30 11:51:31</sys_updated_on>
+        <table>x_1574635_employee_requisition_request</table>
+        <uncancelable>false</uncancelable>
+        <view_name/>
+    </sys_ui_module>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="Employee Requisition">fb7d81d2c3a21210648cbefdd4013160</application>
+        <file_path/>
+        <instance_id>2fc915bd1bb9b9d0fe1b43f4bd4bcb24</instance_id>
+        <instance_name>dev182588</instance_name>
+        <name>sys_ui_module_6c22ec29c3761210648cbefdd4013154</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_ui_module"><sys_ui_module action="INSERT_OR_UPDATE"><active>true</active><application display_value="Employee Requisition">1752519ac3a21210648cbefdd40131ce</application><filter/><name>Requisition Requests</name><order/><path/><path_relative_to_root>false</path_relative_to_root><roles>x_1574635_employee.requisition_request_admin</roles><sys_class_name>sys_ui_module</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2024-12-30 11:51:31</sys_created_on><sys_domain>global</sys_domain><sys_domain_path>/</sys_domain_path><sys_id>6c22ec29c3761210648cbefdd4013154</sys_id><sys_mod_count>0</sys_mod_count><sys_name>Requisition Requests</sys_name><sys_package display_value="Employee Requisition" source="x_1574635_employee">fb7d81d2c3a21210648cbefdd4013160</sys_package><sys_policy/><sys_scope display_value="Employee Requisition">fb7d81d2c3a21210648cbefdd4013160</sys_scope><sys_update_name>sys_ui_module_6c22ec29c3761210648cbefdd4013154</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2024-12-30 11:51:31</sys_updated_on><table>x_1574635_employee_requisition_request</table><uncancelable>false</uncancelable><view_name/></sys_ui_module></record_update>]]></payload>
+        <payload_hash>-770239181</payload_hash>
+        <record_name>Requisition Requests</record_name>
+        <reverted_from/>
+        <source>f77d81d2c3a21210648cbefdd4013165</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-12-30 11:51:31</sys_created_on>
+        <sys_id>6422ec29c3761210648cbefdd4013158</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>1941768300b0000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-12-30 11:51:31</sys_updated_on>
+        <type>Module</type>
+        <update_guid>2822ec298c761210061394be4e39de57</update_guid>
+        <update_guid_history>2822ec298c761210061394be4e39de57:-770239181</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete/>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-12-30 11:56:49</sys_created_on>
+        <sys_db_object display_value="" name="sys_ui_module">sys_ui_module</sys_db_object>
+        <sys_id>3307564d5ec94413b50d33c1af5c9c21</sys_id>
+        <sys_metadata>6c22ec29c3761210648cbefdd4013154</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Requisition Requests</sys_name>
+        <sys_package display_value="Employee Requisition" source="x_1574635_employee">fb7d81d2c3a21210648cbefdd4013160</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="Employee Requisition">fb7d81d2c3a21210648cbefdd4013160</sys_scope>
+        <sys_scope_delete display_value="">6228e63eee92470a95b7cdb805bb6b31</sys_scope_delete>
+        <sys_update_name>sys_ui_module_6c22ec29c3761210648cbefdd4013154</sys_update_name>
+        <sys_update_version display_value="sys_ui_module_6c22ec29c3761210648cbefdd4013154">6422ec29c3761210648cbefdd4013158</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-12-30 11:56:49</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_ui_policy">
+    <sys_ui_policy action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <conditions table="x_1574635_employee_candidate_profile">referred_from=From Perficient Employee^EQ<item display_value="Perficient Employee" endquery="false" field="referred_from" goto="false" newquery="false" operator="=" or="false" value="From Perficient Employee"/>
+            <item endquery="true" field="" goto="false" newquery="false" operator="=" or="false" value=""/>
+        </conditions>
+        <description/>
+        <global>true</global>
+        <inherit>false</inherit>
+        <isolate_script>true</isolate_script>
+        <model_id/>
+        <model_table/>
+        <on_load>true</on_load>
+        <order>100</order>
+        <reverse_if_false>true</reverse_if_false>
+        <run_scripts>false</run_scripts>
+        <script_false><![CDATA[function onCondition() {
+
+}]]></script_false>
+        <script_true><![CDATA[function onCondition() {
+
+}]]></script_true>
+        <set_values/>
+        <short_description>If referred from perficient Employee</short_description>
+        <sys_class_name>sys_ui_policy</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-12-24 14:04:58</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>593606afc32a1210648cbefdd401312b</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>If referred from perficient Employee</sys_name>
+        <sys_overrides/>
+        <sys_package display_value="Employee Requisition" source="x_1574635_employee">fb7d81d2c3a21210648cbefdd4013160</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Employee Requisition">fb7d81d2c3a21210648cbefdd4013160</sys_scope>
+        <sys_update_name>sys_ui_policy_593606afc32a1210648cbefdd401312b</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-12-24 14:04:58</sys_updated_on>
+        <table>x_1574635_employee_candidate_profile</table>
+        <ui_type>0</ui_type>
+        <view/>
+    </sys_ui_policy>
+</record_update>

@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_security_acl_role">
+    <sys_security_acl_role action="DELETE">
+        <sys_class_name>sys_security_acl_role</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-12-27 14:09:23</sys_created_on>
+        <sys_id>f2e42960c3725610648cbefdd40131ca</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>.x_1574635_employee.reqisistion_user</sys_name>
+        <sys_package display_value="Employee Requisition" source="x_1574635_employee">fb7d81d2c3a21210648cbefdd4013160</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Employee Requisition">fb7d81d2c3a21210648cbefdd4013160</sys_scope>
+        <sys_security_acl display_value="">42a4e560c3725610648cbefdd401315d</sys_security_acl>
+        <sys_update_name>sys_security_acl_role_f2e42960c3725610648cbefdd40131ca</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-12-27 14:09:23</sys_updated_on>
+        <sys_user_role display_value="x_1574635_employee.reqisistion_user" name="x_1574635_employee.reqisistion_user">140cd164c3325610648cbefdd4013144</sys_user_role>
+    </sys_security_acl_role>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="Employee Requisition">fb7d81d2c3a21210648cbefdd4013160</application>
+        <file_path/>
+        <instance_id>2fc915bd1bb9b9d0fe1b43f4bd4bcb24</instance_id>
+        <instance_name>dev182588</instance_name>
+        <name>sys_security_acl_role_f2e42960c3725610648cbefdd40131ca</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_security_acl_role"><sys_security_acl_role action="INSERT_OR_UPDATE"><sys_class_name>sys_security_acl_role</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2024-12-27 14:09:23</sys_created_on><sys_id>f2e42960c3725610648cbefdd40131ca</sys_id><sys_mod_count>0</sys_mod_count><sys_name>.x_1574635_employee.reqisistion_user</sys_name><sys_package display_value="Employee Requisition" source="x_1574635_employee">fb7d81d2c3a21210648cbefdd4013160</sys_package><sys_policy/><sys_scope display_value="Employee Requisition">fb7d81d2c3a21210648cbefdd4013160</sys_scope><sys_security_acl display_value="">42a4e560c3725610648cbefdd401315d</sys_security_acl><sys_update_name>sys_security_acl_role_f2e42960c3725610648cbefdd40131ca</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2024-12-27 14:09:23</sys_updated_on><sys_user_role display_value="x_1574635_employee.reqisistion_user" name="x_1574635_employee.reqisistion_user">140cd164c3325610648cbefdd4013144</sys_user_role></sys_security_acl_role></record_update>]]></payload>
+        <payload_hash>-2006005321</payload_hash>
+        <record_name>.x_1574635_employee.reqisistion_user</record_name>
+        <reverted_from/>
+        <source>f77d81d2c3a21210648cbefdd4013165</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-12-27 14:09:24</sys_created_on>
+        <sys_id>87e42960c3725610648cbefdd40131cd</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>194087357d90000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-12-27 14:09:24</sys_updated_on>
+        <type>Access Roles</type>
+        <update_guid>bae429600b72561086d28efef94080cc</update_guid>
+        <update_guid_history>bae429600b72561086d28efef94080cc:-2006005321</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete display_value=".x_1574635_employee.reqisistion_user">9bca9cedc3361210648cbefdd40131af</sys_audit_delete>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-12-30 11:19:29</sys_created_on>
+        <sys_db_object display_value="" name="sys_security_acl_role">sys_security_acl_role</sys_db_object>
+        <sys_id>498deba343d741cca18ef7d71c4290a4</sys_id>
+        <sys_metadata>f2e42960c3725610648cbefdd40131ca</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>.x_1574635_employee.reqisistion_user</sys_name>
+        <sys_package display_value="Employee Requisition" source="x_1574635_employee">fb7d81d2c3a21210648cbefdd4013160</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="Employee Requisition">fb7d81d2c3a21210648cbefdd4013160</sys_scope>
+        <sys_scope_delete display_value="">6228e63eee92470a95b7cdb805bb6b31</sys_scope_delete>
+        <sys_update_name>sys_security_acl_role_f2e42960c3725610648cbefdd40131ca</sys_update_name>
+        <sys_update_version display_value="sys_security_acl_role_f2e42960c3725610648cbefdd40131ca">87e42960c3725610648cbefdd40131cd</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-12-30 11:19:29</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

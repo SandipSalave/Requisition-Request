@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sysrule_assignment">
+    <sysrule_assignment action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <condition/>
+        <description/>
+        <group display_value="HR recruitment and operations" name="HR recruitment and operations">20b21576c3f69610648cbefdd4013116</group>
+        <match_conditions>ALL</match_conditions>
+        <name>Assignment Group Pre Selection</name>
+        <order>30</order>
+        <script>/**&#13;
+* Example:&#13;
+* The following script requires personalizing the instance to add the Malware category and the Security assignment group.&#13;
+* if (current.category == "Hardware")&#13;
+*    current.assignment_group.setDisplayValue("Hardware"); &#13;
+* else if (current.category == "Software")&#13;
+*    current.assignment_group.setDisplayValue("Software");&#13;
+* else if (current.category == "Malware")&#13;
+*    current.assignment_group.setDisplayValue("Security");	&#13;
+*&#13;
+* Another Example:&#13;
+* Release Planning Example, which assigns the last person assigned to a release to the current release.&#13;
+* current.release.product.service.assigned_to;&#13;
+*/</script>
+        <sys_class_name>sysrule_assignment</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2025-01-08 06:16:09</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>11aaa9d0c343d210648cbefdd40131fc</sys_id>
+        <sys_mod_count>4</sys_mod_count>
+        <sys_name>Assignment Group Pre Selection</sys_name>
+        <sys_overrides/>
+        <sys_package display_value="Employee Requisition" source="x_1574635_employee">fb7d81d2c3a21210648cbefdd4013160</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Employee Requisition">fb7d81d2c3a21210648cbefdd4013160</sys_scope>
+        <sys_update_name>sysrule_assignment_11aaa9d0c343d210648cbefdd40131fc</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2025-01-08 07:17:41</sys_updated_on>
+        <table>x_1574635_employee_requisition_request</table>
+        <user/>
+    </sysrule_assignment>
+</record_update>

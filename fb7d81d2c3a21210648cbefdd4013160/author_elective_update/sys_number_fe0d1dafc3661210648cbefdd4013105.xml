@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_number">
+    <sys_number action="DELETE">
+        <category display_value="" name="x_1574635_employee_requisition_request">x_1574635_employee_requisition_request</category>
+        <maximum_digits>5</maximum_digits>
+        <number>1000</number>
+        <prefix>EREQ</prefix>
+        <sys_class_name>sys_number</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-12-24 11:01:03</sys_created_on>
+        <sys_id>fe0d1dafc3661210648cbefdd4013105</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>EREQ</sys_name>
+        <sys_package display_value="Employee Requisition" source="x_1574635_employee">fb7d81d2c3a21210648cbefdd4013160</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Employee Requisition">fb7d81d2c3a21210648cbefdd4013160</sys_scope>
+        <sys_update_name>sys_number_fe0d1dafc3661210648cbefdd4013105</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-12-24 11:01:03</sys_updated_on>
+    </sys_number>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="Employee Requisition">fb7d81d2c3a21210648cbefdd4013160</application>
+        <file_path/>
+        <instance_id>2fc915bd1bb9b9d0fe1b43f4bd4bcb24</instance_id>
+        <instance_name>dev182588</instance_name>
+        <name>sys_number_fe0d1dafc3661210648cbefdd4013105</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_number"><sys_number action="INSERT_OR_UPDATE"><category display_value="" name="x_1574635_employee_requisition_request">x_1574635_employee_requisition_request</category><maximum_digits>5</maximum_digits><number>1000</number><prefix>EREQ</prefix><sys_class_name>sys_number</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2024-12-24 11:01:03</sys_created_on><sys_id>fe0d1dafc3661210648cbefdd4013105</sys_id><sys_mod_count>0</sys_mod_count><sys_name>EREQ</sys_name><sys_package display_value="Employee Requisition" source="x_1574635_employee">fb7d81d2c3a21210648cbefdd4013160</sys_package><sys_policy/><sys_scope display_value="Employee Requisition">fb7d81d2c3a21210648cbefdd4013160</sys_scope><sys_update_name>sys_number_fe0d1dafc3661210648cbefdd4013105</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2024-12-24 11:01:03</sys_updated_on></sys_number></record_update>]]></payload>
+        <payload_hash>-1848253600</payload_hash>
+        <record_name>EREQ</record_name>
+        <reverted_from/>
+        <source>f77d81d2c3a21210648cbefdd4013165</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-12-24 11:01:04</sys_created_on>
+        <sys_id>070d1dafc3661210648cbefdd401310d</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>193f853d6c00000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-12-24 11:01:04</sys_updated_on>
+        <type>Number</type>
+        <update_guid>0b0d1daf776612106320591ebff61a0c</update_guid>
+        <update_guid_history>0b0d1daf776612106320591ebff61a0c:-1848253600</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete/>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-12-30 11:47:47</sys_created_on>
+        <sys_db_object display_value="" name="sys_number">sys_number</sys_db_object>
+        <sys_id>055e7917e8ad4069abdbf592c33e4741</sys_id>
+        <sys_metadata>fe0d1dafc3661210648cbefdd4013105</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>EREQ</sys_name>
+        <sys_package display_value="Employee Requisition" source="x_1574635_employee">fb7d81d2c3a21210648cbefdd4013160</sys_package>
+        <sys_parent display_value="">c34e0556c3a21210648cbefdd401319f</sys_parent>
+        <sys_policy/>
+        <sys_scope display_value="Employee Requisition">fb7d81d2c3a21210648cbefdd4013160</sys_scope>
+        <sys_scope_delete display_value="">6228e63eee92470a95b7cdb805bb6b31</sys_scope_delete>
+        <sys_update_name>sys_number_fe0d1dafc3661210648cbefdd4013105</sys_update_name>
+        <sys_update_version display_value="sys_number_fe0d1dafc3661210648cbefdd4013105">070d1dafc3661210648cbefdd401310d</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-12-30 11:47:47</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

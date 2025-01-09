@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element db_object_id="9fee0196c3a21210648cbefdd401313f" label="Hiring Roles" max_length="40" name="x_1574635_employee_hiring_roles" type="collection">
+        <element attributes="edge_encryption_enabled=true" display="true" label="Role" max_length="60" name="role" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="Role Code" max_length="40" name="role_code" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="Description" max_length="100" name="description" type="string"/>
+    </element>
+</database>

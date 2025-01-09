@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_wizard_answer">
+    <sys_wizard_answer action="DELETE">
+        <active>true</active>
+        <answer>New Requisition Request</answer>
+        <button_label/>
+        <dependent_value/>
+        <element/>
+        <name>Requisition Request</name>
+        <next_question/>
+        <order>100</order>
+        <payload_name/>
+        <question display_value="Task" name="Task">88a1834a851112108a7c81b65f878940</question>
+        <roles/>
+        <script/>
+        <sys_class_name>sys_wizard_answer</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-12-20 12:44:14</sys_created_on>
+        <sys_id>034e0556c3a21210648cbefdd40131d3</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Requisition Request</sys_name>
+        <sys_package display_value="Employee Requisition" source="x_1574635_employee">fb7d81d2c3a21210648cbefdd4013160</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Employee Requisition">fb7d81d2c3a21210648cbefdd4013160</sys_scope>
+        <sys_update_name>sys_wizard_answer_034e0556c3a21210648cbefdd40131d3</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-12-20 12:44:14</sys_updated_on>
+        <table/>
+        <target_url>x_1574635_employee_requisition_request.do</target_url>
+        <type>1</type>
+    </sys_wizard_answer>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="Employee Requisition">fb7d81d2c3a21210648cbefdd4013160</application>
+        <file_path/>
+        <instance_id>2fc915bd1bb9b9d0fe1b43f4bd4bcb24</instance_id>
+        <instance_name>dev182588</instance_name>
+        <name>sys_wizard_answer_034e0556c3a21210648cbefdd40131d3</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_wizard_answer"><sys_wizard_answer action="INSERT_OR_UPDATE"><active>true</active><answer>New Requisition Request</answer><button_label/><dependent_value/><element/><name>Requisition Request</name><next_question/><order>100</order><payload_name/><question display_value="Task" name="Task">88a1834a851112108a7c81b65f878940</question><roles/><script/><sys_class_name>sys_wizard_answer</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2024-12-20 12:44:14</sys_created_on><sys_id>034e0556c3a21210648cbefdd40131d3</sys_id><sys_mod_count>0</sys_mod_count><sys_name>Requisition Request</sys_name><sys_package display_value="Employee Requisition" source="x_1574635_employee">fb7d81d2c3a21210648cbefdd4013160</sys_package><sys_policy/><sys_scope display_value="Employee Requisition">fb7d81d2c3a21210648cbefdd4013160</sys_scope><sys_update_name>sys_wizard_answer_034e0556c3a21210648cbefdd40131d3</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2024-12-20 12:44:14</sys_updated_on><table/><target_url>x_1574635_employee_requisition_request.do</target_url><type>1</type></sys_wizard_answer></record_update>]]></payload>
+        <payload_hash>-278831435</payload_hash>
+        <record_name>Requisition Request</record_name>
+        <reverted_from/>
+        <source>f77d81d2c3a21210648cbefdd4013165</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-12-20 12:44:14</sys_created_on>
+        <sys_id>cb4e0556c3a21210648cbefdd40131d5</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>193e418da6f0000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-12-20 12:44:14</sys_updated_on>
+        <type>Answer</type>
+        <update_guid>8f4e055616a212106c62813483df9cd4</update_guid>
+        <update_guid_history>8f4e055616a212106c62813483df9cd4:-278831435</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete/>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-12-30 11:47:49</sys_created_on>
+        <sys_db_object display_value="" name="sys_wizard_answer">sys_wizard_answer</sys_db_object>
+        <sys_id>46c57fc51eff4f92ba8365b69fc8a524</sys_id>
+        <sys_metadata>034e0556c3a21210648cbefdd40131d3</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Requisition Request</sys_name>
+        <sys_package display_value="Employee Requisition" source="x_1574635_employee">fb7d81d2c3a21210648cbefdd4013160</sys_package>
+        <sys_parent display_value="Task">88a1834a851112108a7c81b65f878940</sys_parent>
+        <sys_policy/>
+        <sys_scope display_value="Employee Requisition">fb7d81d2c3a21210648cbefdd4013160</sys_scope>
+        <sys_scope_delete display_value="">6228e63eee92470a95b7cdb805bb6b31</sys_scope_delete>
+        <sys_update_name>sys_wizard_answer_034e0556c3a21210648cbefdd40131d3</sys_update_name>
+        <sys_update_version display_value="sys_wizard_answer_034e0556c3a21210648cbefdd40131d3">cb4e0556c3a21210648cbefdd40131d5</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-12-30 11:47:49</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

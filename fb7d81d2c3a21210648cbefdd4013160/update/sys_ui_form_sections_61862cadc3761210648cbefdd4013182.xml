@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_ui_form_sections form_id="61862cadc3761210648cbefdd4013182" sys_domain="global" table="x_1574635_employee_requisition_request" version="3">
+        <sys_ui_form_section action="INSERT_OR_UPDATE">
+            <position>0</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2024-12-30 12:10:42</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>e9862cadc3761210648cbefdd4013185</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_overrides/>
+            <sys_ui_form display_value="x_1574635_employee_requisition_request" name="x_1574635_employee_requisition_request" sys_domain="global" view="Default view">61862cadc3761210648cbefdd4013182</sys_ui_form>
+            <sys_ui_section caption="NULL" display_value="" name="x_1574635_employee_requisition_request" sys_domain="global" view="Default view">23d32829c3761210648cbefdd40131f1</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2024-12-30 12:10:42</sys_updated_on>
+        </sys_ui_form_section>
+        <sys_ui_form_section action="INSERT_OR_UPDATE">
+            <position>1</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2024-12-30 12:10:42</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>e5862cadc3761210648cbefdd4013186</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_overrides/>
+            <sys_ui_form display_value="x_1574635_employee_requisition_request" name="x_1574635_employee_requisition_request" sys_domain="global" view="Default view">61862cadc3761210648cbefdd4013182</sys_ui_form>
+            <sys_ui_section caption="Updates" display_value="Updates" name="x_1574635_employee_requisition_request" sys_domain="global" view="Default view">a9862cadc3761210648cbefdd4013180</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2024-12-30 12:10:42</sys_updated_on>
+        </sys_ui_form_section>
+        <sys_ui_form action="INSERT_OR_UPDATE">
+            <name>x_1574635_employee_requisition_request</name>
+            <roles/>
+            <sys_class_name>sys_ui_form</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2024-12-30 12:10:42</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>61862cadc3761210648cbefdd4013182</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>x_1574635_employee_requisition_request</sys_name>
+            <sys_overrides/>
+            <sys_package display_value="Employee Requisition" source="x_1574635_employee">fb7d81d2c3a21210648cbefdd4013160</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="Employee Requisition">fb7d81d2c3a21210648cbefdd4013160</sys_scope>
+            <sys_update_name>sys_ui_form_sections_61862cadc3761210648cbefdd4013182</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2024-12-30 12:10:42</sys_updated_on>
+            <sys_user/>
+            <view display_value="Default view" name="NULL">Default view</view>
+            <view_name/>
+        </sys_ui_form>
+    </sys_ui_form_sections>
+</record_update>

@@ -1,53 +1,67 @@
 <?xml version="1.0" encoding="UTF-8"?><record_update>
-    <sys_ui_section caption="Updates" section_id="a9862cadc3761210648cbefdd4013180" sys_domain="global" table="x_1574635_employee_requisition_request" version="3" view="">
+    <sys_ui_section caption="Activity Feed" section_id="c2cbc0f4c3035610648cbefdd4013140" sys_domain="global" table="x_1574635_employee_requisition_request" version="3" view="">
         <sys_ui_element action="INSERT_OR_UPDATE">
-            <element>short_description</element>
+            <element>work_notes</element>
             <position>0</position>
             <sys_created_by>admin</sys_created_by>
             <sys_created_on>2025-01-09 12:36:14</sys_created_on>
-            <sys_id>4d4c4cf4c3035610648cbefdd401314c</sys_id>
+            <sys_id>8d4c4cf4c3035610648cbefdd401312c</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
-            <sys_ui_section caption="Updates" display_value="Updates" name="x_1574635_employee_requisition_request" sys_domain="global" view="Default view">a9862cadc3761210648cbefdd4013180</sys_ui_section>
+            <sys_ui_section caption="Activity Feed" display_value="Activity Feed" name="x_1574635_employee_requisition_request" sys_domain="global" view="Default view">c2cbc0f4c3035610648cbefdd4013140</sys_ui_section>
             <sys_updated_by>admin</sys_updated_by>
             <sys_updated_on>2025-01-09 12:36:14</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>
         <sys_ui_element action="INSERT_OR_UPDATE">
-            <element>description</element>
+            <element>comments</element>
             <position>1</position>
             <sys_created_by>admin</sys_created_by>
             <sys_created_on>2025-01-09 12:36:14</sys_created_on>
-            <sys_id>c14c4cf4c3035610648cbefdd401314d</sys_id>
+            <sys_id>054c4cf4c3035610648cbefdd401312d</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
-            <sys_ui_section caption="Updates" display_value="Updates" name="x_1574635_employee_requisition_request" sys_domain="global" view="Default view">a9862cadc3761210648cbefdd4013180</sys_ui_section>
+            <sys_ui_section caption="Activity Feed" display_value="Activity Feed" name="x_1574635_employee_requisition_request" sys_domain="global" view="Default view">c2cbc0f4c3035610648cbefdd4013140</sys_ui_section>
             <sys_updated_by>admin</sys_updated_by>
             <sys_updated_on>2025-01-09 12:36:14</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>activity.xml</element>
+            <position>2</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2025-01-09 12:36:14</sys_created_on>
+            <sys_id>894c4cf4c3035610648cbefdd401312d</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter display_value="Activities (filtered)">444ea5c6bf310100e628555b3f0739d6</sys_ui_formatter>
+            <sys_ui_section caption="Activity Feed" display_value="Activity Feed" name="x_1574635_employee_requisition_request" sys_domain="global" view="Default view">c2cbc0f4c3035610648cbefdd4013140</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2025-01-09 12:36:14</sys_updated_on>
+            <sys_user/>
+            <type>formatter</type>
+        </sys_ui_element>
         <sys_ui_section action="INSERT_OR_UPDATE">
-            <caption>Updates</caption>
+            <caption>Activity Feed</caption>
             <header>false</header>
             <name>x_1574635_employee_requisition_request</name>
             <roles/>
             <sys_class_name>sys_ui_section</sys_class_name>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2024-12-30 12:10:42</sys_created_on>
+            <sys_created_on>2025-01-09 12:34:08</sys_created_on>
             <sys_domain>global</sys_domain>
             <sys_domain_path>/</sys_domain_path>
-            <sys_id>a9862cadc3761210648cbefdd4013180</sys_id>
+            <sys_id>c2cbc0f4c3035610648cbefdd4013140</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_name>x_1574635_employee_requisition_request</sys_name>
             <sys_overrides/>
             <sys_package display_value="Employee Requisition" source="x_1574635_employee">fb7d81d2c3a21210648cbefdd4013160</sys_package>
             <sys_policy/>
             <sys_scope display_value="Employee Requisition">fb7d81d2c3a21210648cbefdd4013160</sys_scope>
-            <sys_update_name>sys_ui_section_a9862cadc3761210648cbefdd4013180</sys_update_name>
+            <sys_update_name>sys_ui_section_c2cbc0f4c3035610648cbefdd4013140</sys_update_name>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2024-12-30 12:10:42</sys_updated_on>
+            <sys_updated_on>2025-01-09 12:34:08</sys_updated_on>
             <sys_user/>
             <title>false</title>
             <view display_value="Default view" name="NULL">Default view</view>

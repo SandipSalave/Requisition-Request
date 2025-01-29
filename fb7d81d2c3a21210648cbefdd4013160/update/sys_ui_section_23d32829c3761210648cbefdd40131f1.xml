@@ -4,13 +4,13 @@
             <element>number</element>
             <position>0</position>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2025-01-07 10:38:32</sys_created_on>
-            <sys_id>d92ed90cc34f5210648cbefdd4013127</sys_id>
+            <sys_created_on>2025-01-14 14:16:13</sys_created_on>
+            <sys_id>5213d29ac30f5210648cbefdd4013191</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="NULL" display_value="" name="x_1574635_employee_requisition_request" sys_domain="global" view="Default view">23d32829c3761210648cbefdd40131f1</sys_ui_section>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2025-01-07 10:38:32</sys_updated_on>
+            <sys_updated_on>2025-01-14 14:16:13</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>
@@ -18,13 +18,13 @@
             <element>department</element>
             <position>1</position>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2025-01-07 10:38:32</sys_created_on>
-            <sys_id>512ed90cc34f5210648cbefdd4013128</sys_id>
+            <sys_created_on>2025-01-14 14:16:13</sys_created_on>
+            <sys_id>d613d29ac30f5210648cbefdd4013191</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="NULL" display_value="" name="x_1574635_employee_requisition_request" sys_domain="global" view="Default view">23d32829c3761210648cbefdd40131f1</sys_ui_section>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2025-01-07 10:38:32</sys_updated_on>
+            <sys_updated_on>2025-01-14 14:16:13</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>
@@ -32,13 +32,13 @@
             <element>technology</element>
             <position>2</position>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2025-01-07 10:38:32</sys_created_on>
-            <sys_id>d52ed90cc34f5210648cbefdd4013128</sys_id>
+            <sys_created_on>2025-01-14 14:16:13</sys_created_on>
+            <sys_id>5e13d29ac30f5210648cbefdd4013191</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="NULL" display_value="" name="x_1574635_employee_requisition_request" sys_domain="global" view="Default view">23d32829c3761210648cbefdd40131f1</sys_ui_section>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2025-01-07 10:38:32</sys_updated_on>
+            <sys_updated_on>2025-01-14 14:16:13</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>
@@ -46,13 +46,13 @@
             <element>job_position</element>
             <position>3</position>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2025-01-07 10:38:32</sys_created_on>
-            <sys_id>5d2ed90cc34f5210648cbefdd4013128</sys_id>
+            <sys_created_on>2025-01-14 14:16:13</sys_created_on>
+            <sys_id>d213d29ac30f5210648cbefdd4013192</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="NULL" display_value="" name="x_1574635_employee_requisition_request" sys_domain="global" view="Default view">23d32829c3761210648cbefdd40131f1</sys_ui_section>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2025-01-07 10:38:32</sys_updated_on>
+            <sys_updated_on>2025-01-14 14:16:13</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>
@@ -60,13 +60,13 @@
             <element>hiring_roles</element>
             <position>4</position>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2025-01-07 10:38:32</sys_created_on>
-            <sys_id>d12ed90cc34f5210648cbefdd4013129</sys_id>
+            <sys_created_on>2025-01-14 14:16:13</sys_created_on>
+            <sys_id>5a13d29ac30f5210648cbefdd4013192</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="NULL" display_value="" name="x_1574635_employee_requisition_request" sys_domain="global" view="Default view">23d32829c3761210648cbefdd40131f1</sys_ui_section>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2025-01-07 10:38:32</sys_updated_on>
+            <sys_updated_on>2025-01-14 14:16:13</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>
@@ -74,13 +74,13 @@
             <element>.split</element>
             <position>5</position>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2025-01-07 10:38:32</sys_created_on>
-            <sys_id>592ed90cc34f5210648cbefdd4013129</sys_id>
+            <sys_created_on>2025-01-14 14:16:13</sys_created_on>
+            <sys_id>de13d29ac30f5210648cbefdd4013192</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="NULL" display_value="" name="x_1574635_employee_requisition_request" sys_domain="global" view="Default view">23d32829c3761210648cbefdd40131f1</sys_ui_section>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2025-01-07 10:38:32</sys_updated_on>
+            <sys_updated_on>2025-01-14 14:16:13</sys_updated_on>
             <sys_user/>
             <type>.split</type>
         </sys_ui_element>
@@ -88,13 +88,13 @@
             <element>state</element>
             <position>6</position>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2025-01-07 10:38:32</sys_created_on>
-            <sys_id>dd2ed90cc34f5210648cbefdd4013129</sys_id>
+            <sys_created_on>2025-01-14 14:16:13</sys_created_on>
+            <sys_id>5613d29ac30f5210648cbefdd4013193</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="NULL" display_value="" name="x_1574635_employee_requisition_request" sys_domain="global" view="Default view">23d32829c3761210648cbefdd40131f1</sys_ui_section>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2025-01-07 10:38:32</sys_updated_on>
+            <sys_updated_on>2025-01-14 14:16:13</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>
@@ -102,13 +102,13 @@
             <element>business_unit</element>
             <position>7</position>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2025-01-07 10:38:32</sys_created_on>
-            <sys_id>552ed90cc34f5210648cbefdd401312a</sys_id>
+            <sys_created_on>2025-01-14 14:16:13</sys_created_on>
+            <sys_id>da13d29ac30f5210648cbefdd4013193</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="NULL" display_value="" name="x_1574635_employee_requisition_request" sys_domain="global" view="Default view">23d32829c3761210648cbefdd40131f1</sys_ui_section>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2025-01-07 10:38:32</sys_updated_on>
+            <sys_updated_on>2025-01-14 14:16:13</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>
@@ -116,13 +116,13 @@
             <element>priority</element>
             <position>8</position>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2025-01-07 10:38:32</sys_created_on>
-            <sys_id>d92ed90cc34f5210648cbefdd401312a</sys_id>
+            <sys_created_on>2025-01-14 14:16:13</sys_created_on>
+            <sys_id>5213d29ac30f5210648cbefdd4013194</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="NULL" display_value="" name="x_1574635_employee_requisition_request" sys_domain="global" view="Default view">23d32829c3761210648cbefdd40131f1</sys_ui_section>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2025-01-07 10:38:32</sys_updated_on>
+            <sys_updated_on>2025-01-14 14:16:13</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>
@@ -130,13 +130,13 @@
             <element>assignment_group</element>
             <position>9</position>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2025-01-07 10:38:32</sys_created_on>
-            <sys_id>512ed90cc34f5210648cbefdd401312b</sys_id>
+            <sys_created_on>2025-01-14 14:16:13</sys_created_on>
+            <sys_id>d613d29ac30f5210648cbefdd4013194</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="NULL" display_value="" name="x_1574635_employee_requisition_request" sys_domain="global" view="Default view">23d32829c3761210648cbefdd40131f1</sys_ui_section>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2025-01-07 10:38:32</sys_updated_on>
+            <sys_updated_on>2025-01-14 14:16:13</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>
@@ -144,13 +144,27 @@
             <element>assigned_to</element>
             <position>10</position>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2025-01-07 10:38:32</sys_created_on>
-            <sys_id>d52ed90cc34f5210648cbefdd401312b</sys_id>
+            <sys_created_on>2025-01-14 14:16:13</sys_created_on>
+            <sys_id>5e13d29ac30f5210648cbefdd4013194</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="NULL" display_value="" name="x_1574635_employee_requisition_request" sys_domain="global" view="Default view">23d32829c3761210648cbefdd40131f1</sys_ui_section>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2025-01-07 10:38:32</sys_updated_on>
+            <sys_updated_on>2025-01-14 14:16:13</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>number_of_candidate</element>
+            <position>11</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2025-01-14 14:16:13</sys_created_on>
+            <sys_id>d213d29ac30f5210648cbefdd4013195</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_1574635_employee_requisition_request" sys_domain="global" view="Default view">23d32829c3761210648cbefdd40131f1</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2025-01-14 14:16:13</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>

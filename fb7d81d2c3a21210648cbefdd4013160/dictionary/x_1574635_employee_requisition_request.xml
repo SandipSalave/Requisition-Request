@@ -3,6 +3,7 @@
         <element attributes="encode_utf8=false" label="Department" max_length="32" name="department" reference="cmn_department" type="reference"/>
         <element attributes="encode_utf8=false" label="Business Unit" max_length="32" name="business_unit" reference="business_unit" type="reference"/>
         <element attributes="encode_utf8=false" label="Hiring Roles" mandatory="true" max_length="32" name="hiring_roles" reference="x_1574635_employee_hiring_roles" type="reference"/>
+        <element default="1" label="Number Of Candidate " mandatory="true" max_length="10" name="number_of_candidate" type="integer"/>
         <element attributes="encode_utf8=false" label="Job Position" mandatory="true" max_length="32" name="job_position" reference="x_1574635_employee_job_position" type="reference"/>
         <element attributes="edge_encryption_enabled=true" label="Pick up reminder" max_length="40" name="pickupreminder" type="glide_date_time"/>
         <element attributes="encode_utf8=false" label="Technology" mandatory="true" max_length="32" name="technology" reference="x_1574635_employee_technology" type="reference"/>
